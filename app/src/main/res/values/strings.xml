@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UserInterfaces</string>
+    <string name="main_layout_name1">Isim</string>
+    <string name="main_layout_name2">Soy isim</string>
+</resources>
